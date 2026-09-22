@@ -1,0 +1,31 @@
+{
+    "symbol": "U",
+    "name": "Uranium",
+    "atomic_number": 92,
+    "isotopes": [
+        {
+            "mass_number": 235,
+            "atomic_mass_u": 235.0439299,
+            "natural_abundance_percent": 0.72,
+            "stable": false
+        },
+        {
+            "mass_number": 238,
+            "atomic_mass_u": 238.0507884,
+            "natural_abundance_percent": 99.27,
+            "stable": false
+        }
+    ],
+    "constants": {
+        "u_kg": 1.66053906660e-27,
+        "c": 299792458,
+        "avogadro": 6.02214076e23,
+        "e_charge": 1.602176634e-19,
+        "ev_joule": 1.602176634e-19,
+        "proton_mass_u": 1.00727646662,
+        "neutron_mass_u": 1.00866491595,
+        "electron_mass_u": 0.000548579909,
+        "u_to_Mev": 931.49410242
+    }
+}
+

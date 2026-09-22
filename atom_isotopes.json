@@ -1,0 +1,97 @@
+[
+    {
+        "symbol": "U",
+        "name": "Uranium",
+        "atomic_number": 92,
+        "isotopes": [
+            {
+                "mass_number": 235,
+                "atomic_mass_u": 235.0439299,
+                "natural_abundance_percent": 0.72,
+                "stable": false
+            },
+            {
+                "mass_number": 238,
+                "atomic_mass_u": 238.0507884,
+                "natural_abundance_percent": 99.27,
+                "stable": false
+            }
+        ]
+    },
+    {
+        "symbol": "H",
+        "name": "Hydrogen",
+        "atomic_number": 1,
+        "isotopes": [
+            {
+                "mass_number": 1,
+                "atomic_mass_u": 1.007825032,
+                "natural_abundance_percent": 99.9885,
+                "stable": true
+            },
+            {
+                "mass_number": 2,
+                "atomic_mass_u": 2.014101778,
+                "natural_abundance_percent": 0.0115,
+                "stable": true
+            }
+        ]
+    },
+    {
+        "symbol": "He",
+        "name": "Helium",
+        "atomic_number": 2,
+        "isotopes": [
+            {
+                "mass_number": 3,
+                "atomic_mass_u": 3.016029322,
+                "natural_abundance_percent": 0.000137,
+                "stable": true
+            },
+            {
+                "mass_number": 4,
+                "atomic_mass_u": 4.002603254,
+                "natural_abundance_percent": 99.999863,
+                "stable": true
+            }
+        ]
+    },
+    {
+        "symbol": "C",
+        "name": "Carbon",
+        "atomic_number": 6,
+        "isotopes": [
+            {
+                "mass_number": 12,
+                "atomic_mass_u": 12.000000000,
+                "natural_abundance_percent": 98.93,
+                "stable": true
+            },
+            {
+                "mass_number": 13,
+                "atomic_mass_u": 13.003354835,
+                "natural_abundance_percent": 1.07,
+                "stable": true
+            }
+        ]
+    },
+    {
+        "symbol": "Pu",
+        "name": "Plutonium",
+        "atomic_number": 94,
+        "isotopes": [
+            {
+                "mass_number": 239,
+                "atomic_mass_u": 239.0521634,
+                "natural_abundance_percent": 0.0,
+                "stable": false
+            },
+            {
+                "mass_number": 244,
+                "atomic_mass_u": 244.064204,
+                "natural_abundance_percent": 0.0,
+                "stable": false
+            }
+        ]
+    }
+]
